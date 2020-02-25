@@ -11,7 +11,7 @@
         another route on the same site.
       </p>
       <p>
-        <a href="/about" class="text-blue-500">Refresh the page</a> to see the
+        <a href="/about">Refresh the page</a> to see the
         pre-rendered version.
       </p>
     </template>
